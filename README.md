@@ -1,11 +1,11 @@
 <h1 align="center">Under Construction</h1>
 
 <p align="center">
-  <img src="https://drewhost.s3.amazonaws.com/dundermifflini.gif" />
+  <img src="https://raw.githubusercontent.com/drwpow/drwpow/main/dundermifflini.gif" />
 </p>
 
 <p align="center">
-  <img src="https://drewhost.s3.amazonaws.com/under-construction.gif" />
+  <img src="https://raw.githubusercontent.com/drwpow/drwpow/main/under-construction.gif" />
 </p>
 
 <h1 align="center" style="color:#02378d;font-family:sans-serif">
